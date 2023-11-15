@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\bin\Debug\Software horarios laborales transporte.exe.config
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\bin\Debug\Software horarios laborales transporte.exe
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\bin\Debug\Software horarios laborales transporte.pdb
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.Contraseña.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.Menu.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.Properties.Resources.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.exe
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software horarios laborales transporte.pdb
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.RegistroEmpleado.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.GenerarHorarios.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.HorarioAutomatico.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.RegistrarIncapacidad.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.ConsultarHorarios.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.RegistrarVacaciones.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.RegistrarRutas.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.ConsultarRutas.resources
+C:\Users\HP\Desktop\Software horarios laborales transporte\Software horarios laborales transporte\obj\Debug\Software_horarios_laborales_transporte.RegistrarNovedades.resources
